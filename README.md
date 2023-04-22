@@ -20,5 +20,5 @@ Quick sort is another divide-and-conquer algorithm that selects an element calle
 Quick sort has an average time complexity of O(n log n), but can have a worst-case time complexity of O(n^2).
 
 Insertion Sort:
-Insertion sort is a simple sorting algorithm that builds the final sorted list one item at a time. It iterates through the input list, comparing each item to the ones before it and inserting it into the correct position. 
+Insertion sort is a simple sorting algorithm that builds the final sorted list one item at a time. It iterates through the input list, comparing each item to the ones before it and inserting it into the correct position.
 Inserting sort has a time complexity of O(n^2), but can be more efficient than other algorithms for small lists or partially sorted lists.
